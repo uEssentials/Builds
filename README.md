@@ -1,4 +1,4 @@
-### Releases timeline
+### Releases timeline [AppVeyor releases](https://github.com/uEssentials/Builds/releases) [Oficial releases](https://github.com/uEssentials/uEssentials/releases)
 
 ---
 - 1.3.1.6 (2016-12-02) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.3.1.6)
@@ -65,4 +65,3 @@
 - 1.0.1.0 (2016-02-06) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.0.1.0)
 - 1.0.0.1 (2016-02-03) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.0.0.1)
 - 1.0.0.0 (2016-02-02) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.0.0.0)
- [AppVeyor releases](https://github.com/uEssentials/Builds/releases) [Oficial releases](https://github.com/uEssentials/uEssentials/releases)
