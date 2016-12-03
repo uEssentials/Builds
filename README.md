@@ -1,6 +1,7 @@
 ### Oficial releases timeline
 
 ---
+- 1.3.1.4 (2016-11-25) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.3.1.4)
 - 1.3.1.3 (2016-11-17) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.3.1.3)
 - 1.3.1.2 (2016-11-16) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.3.1.2)
 - 1.3.1.1 (2016-11-13) [Download](https://github.com/uEssentials/uEssentials/releases/tag/1.3.1.1)
